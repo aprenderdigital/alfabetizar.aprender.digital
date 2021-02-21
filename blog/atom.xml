@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://personalizar.aprender.digital/blog</id>
-    <title>Livros Personalizados Blog</title>
+    <title>PowerBook - Alfabetização Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://personalizar.aprender.digital/blog"/>
-    <subtitle>Livros Personalizados Blog</subtitle>
+    <subtitle>PowerBook - Alfabetização Blog</subtitle>
     <icon>https://personalizar.aprender.digital/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
